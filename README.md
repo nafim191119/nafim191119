@@ -16,9 +16,10 @@
 📫 You can reach me at **nafim191119@gmail.com**
 
 ---
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/nafim191119/count.svg)
 
 ## 🌐 Socials:
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/afim.nafim) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nafim0805) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafim-islam-b30901281/) 
@@ -96,6 +97,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nafim191119&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
